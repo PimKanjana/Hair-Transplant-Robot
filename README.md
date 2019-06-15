@@ -13,3 +13,4 @@ Note:
 - Python used version: python 3.5
 - numpy module version: 1.15.4 
 - scipy module version: 1.2.0rc1
+- Basler Camera SDK: Pylon5 (Pylon viewer), pypylon (python module)
