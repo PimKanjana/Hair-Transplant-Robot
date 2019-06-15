@@ -14,3 +14,9 @@ Note:
 - numpy module version: 1.15.4 
 - scipy module version: 1.2.0rc1
 - Basler Camera SDK: Pylon5 (Pylon viewer), pypylon (python module)
+- Dynamixel X-series: protocol 2.0 
+    XM-540-w270-R: Joint1
+    XM-430-w350-R: Joint2
+    XL-430-w250-T: Joint3 & Joint4
+    
+  
