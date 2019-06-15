@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="BGimage">
+    <file>epidermis.png</file>
+    <file>target (2).png</file>
+  </qresource>
+  <qresource prefix="sign">
+    <file>warning.png</file>
+  </qresource>
+</RCC>
